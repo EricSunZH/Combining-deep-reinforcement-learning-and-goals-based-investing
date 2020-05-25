@@ -628,31 +628,71 @@ The recommended software packages:
 \end_layout
 
 \begin_layout Itemize
-R latest version (currently 3.6.2)
+R version 3.6.3
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+NOTE: until further notice, please do NOT use R 4.0.0 (or newer) for this
+ project
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Python 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+latest version of 3.8 (currently 3.8.3), or 
 \end_layout
 
 \begin_layout Itemize
-Anaconda Python 3 latest version (currently 2019.10 for Python 3.7)
+Python 3.7.6, or 
 \end_layout
 
 \begin_layout Itemize
-RStudio Desktop Open Source latest version (currently 1.2.5033)
+Anaconda Python 3 latest version (currently 2020.02 for Python 3.7)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+RStudio Desktop Open Source latest version (currently 1.3.959)
 \end_layout
 
 \begin_layout Itemize
-PyCharm Community Edition latest version (currently 2019.3.2)
+PyCharm Community Edition latest version (currently 2020.1.1)
 \end_layout
 
 \begin_layout Itemize
-LyX latest version (currently 2.3.3)
+LyX latest version (currently 2.3.4)
 \end_layout
 
 \begin_layout Itemize
-JabRef latest version (currently 4.3.1)
+JabRef latest version: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+latest official version (5.0), or 
 \end_layout
 
 \begin_layout Itemize
-TexLive latest version (currently 2019)
+latest development version 5.1 (from 
+\begin_inset CommandInset href
+LatexCommand href
+name "JabRef website"
+target "https://builds.jabref.org/master/"
+literal "false"
+
+\end_inset
+
+)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+TexLive latest version (currently 2020)
 \end_layout
 
 \begin_layout Itemize
@@ -661,6 +701,18 @@ R packages (to be discussed)
 
 \begin_layout Itemize
 Python packages (to be discussed)
+\end_layout
+
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "Git for desktop"
+target "https://git-scm.com/downloads"
+literal "false"
+
+\end_inset
+
+ latest version (currently 2.26.2)
 \end_layout
 
 \begin_layout Standard
