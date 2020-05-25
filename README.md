@@ -5,7 +5,7 @@ Team name: BespokeQuant</br>
 Team member: Eric Sun (Zhonghao), Ziming Mao </br>
 Supervisor: Cristian Homescu </br>
 
-### Project discription
+### Introduction
 
 Goal-Based Investing (GBI) is an investment approach where performance is measured by the success of investments
 in meeting the investor financial goals (e.g., retirement, education, or vacation home). The objective is to invest
@@ -15,3 +15,7 @@ world. GBI can be solved via reinforcement learning (RL), a paradigm of learning
 rewards or punishments. It was shown that RL can solve financial applications of intertemporal choice.</Br></Br>
 Within deep reinforcement learning (DRL) framework, the RL agents construct and learn their own knowledge
 through deep learning of neural networks.</Br></Br>
+
+### Project discription
+
+This project aims to 
