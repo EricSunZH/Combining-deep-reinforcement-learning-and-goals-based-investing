@@ -2,7 +2,7 @@
 ### New York University Financial Engineering -- Bank of America Capstone Project
 
 Team name: BespokeQuant</br>
-Team member: Eric Sun (Zhonghao), Lei Guo, Ziming Mao </br>
+Team member: Eric Sun (Zhonghao), Ning Cai, Ziming Mao </br>
 Supervisor: Cristian Homescu </br>
 
 ### Introduction
