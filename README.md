@@ -18,5 +18,6 @@ This project aims to combine Deep Reinforcement Learning with Goal-Based Investm
 The code runs on tensorflow 1.x and Stable_Baseline 2.x  </br>
 The model has been pre-trained with results saved in best_model.zip. To run the test code with default parameters and the pre-trained result, run test.py. </br>
 
-To adjust parameters and retrain the model, open settings.py to adjust the reward function parameters, and run train.py.
+To adjust parameters and retrain the model, open settings.py to adjust the reward function parameters, and run train.py. </br>
 
+The results highlighted in our paper were the simulation results of 1000 rounds. Due to constraint in file size, we only uploaded the simulated test data of 100 rounds.
